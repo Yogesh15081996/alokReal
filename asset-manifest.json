@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alokReal/static/css/main.25f30b12.css",
+    "main.js": "/alokReal/static/js/main.764192c5.js",
+    "static/js/787.728a399a.chunk.js": "/alokReal/static/js/787.728a399a.chunk.js",
+    "static/media/ak3.jpeg": "/alokReal/static/media/ak3.9a79f58b40d0b147599f.jpeg",
+    "static/media/ak.jpeg": "/alokReal/static/media/ak.9b0726e49d4742051fc1.jpeg",
+    "static/media/portfolio5.png": "/alokReal/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/alokReal/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/alokReal/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/alokReal/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/alokReal/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/alokReal/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/alokReal/index.html",
+    "main.25f30b12.css.map": "/alokReal/static/css/main.25f30b12.css.map",
+    "main.764192c5.js.map": "/alokReal/static/js/main.764192c5.js.map",
+    "787.728a399a.chunk.js.map": "/alokReal/static/js/787.728a399a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f30b12.css",
+    "static/js/main.764192c5.js"
+  ]
+}
