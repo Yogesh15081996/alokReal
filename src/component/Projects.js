@@ -36,7 +36,7 @@ export default function Projects() {
     const { classes } = useStyles()
 
     const handleGitHub = () => {
-        window.location.href = 'https://github.com/Yogesh15081996/realAlok';
+        window.location.href = '';
     };
     useEffect(() => {
         AOS.init({
@@ -64,7 +64,7 @@ export default function Projects() {
                                 <Box p="lg" radius="md" className={classes.portfolioGit} data-aos="fade-up" onClick={handleGitHub}>
                                     <Image maw={340} mx="auto" radius={15} src={portfolio1} alt="Random image" />
                                     <Center p={15} mt={20} className={classes.demoButton}>
-                                        <a href="https://github.com/Yogesh15081996/realAlok" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
+                                        <a href="#" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
                                     </Center>
                                 </Box>
                             </Grid.Col>
@@ -72,7 +72,7 @@ export default function Projects() {
                                 <Box p="lg" radius="md" className={classes.portfolioGit} data-aos="fade-up" onClick={handleGitHub}>
                                     <Image maw={340} mx="auto" radius={15} src={portfolio6} alt="Random image" />
                                     <Center p={15} mt={20} className={classes.demoButton}>
-                                        <a href="https://github.com/Yogesh15081996/realAlok" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
+                                        <a href="#" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
                                     </Center>
                                 </Box>
                             </Grid.Col>
@@ -80,7 +80,7 @@ export default function Projects() {
                                 <Box p="lg" radius="md" className={classes.portfolioGit} data-aos="fade-up" onClick={handleGitHub}>
                                     <Image maw={340} mx="auto" radius={15} src={portfolio3} alt="Random image" />
                                     <Center p={15} mt={20} className={classes.demoButton}>
-                                        <a href="https://github.com/Yogesh15081996/realAlok" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
+                                        <a href="#" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
                                     </Center>
                                 </Box>
                             </Grid.Col>
@@ -88,7 +88,7 @@ export default function Projects() {
                                 <Box p="lg" radius="md" className={classes.portfolioGit} data-aos="fade-up" onClick={handleGitHub}>
                                     <Image maw={340} mx="auto" radius={15} src={portfolio4} alt="Random image" />
                                     <Center p={15} mt={20} className={classes.demoButton}>
-                                        <a href="https://github.com/Yogesh15081996/realAlok" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
+                                        <a href="#" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
                                     </Center>
                                 </Box>
                             </Grid.Col>
@@ -96,7 +96,7 @@ export default function Projects() {
                                 <Box p="lg" radius="md" className={classes.portfolioGit} data-aos="fade-up" onClick={handleGitHub}>
                                     <Image maw={340} mx="auto" radius={15} src={portfolio5} alt="Random image" />
                                     <Center p={15} mt={20} className={classes.demoButton}>
-                                        <a href="https://github.com/Yogesh15081996/realAlok" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
+                                        <a href="#" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
                                     </Center>
                                 </Box>
                             </Grid.Col>
@@ -104,7 +104,7 @@ export default function Projects() {
                                 <Box p="lg" radius="md" className={classes.portfolioGit} data-aos="fade-up" onClick={handleGitHub}>
                                     <Image maw={340} mx="auto" radius={15} src={portfolio2} alt="Random image" />
                                     <Center p={15} mt={20} className={classes.demoButton}>
-                                        <a href="https://github.com/Yogesh15081996/realAlok" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
+                                        <a href="#" style={{ textDecoration: "none", color: "#fff" }}>Git Hub</a>
                                     </Center>
                                 </Box>
                             </Grid.Col>
