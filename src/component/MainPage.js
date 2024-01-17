@@ -71,7 +71,7 @@ export default function MainPage() {
             <Center mt="lg">
 
               <Center p={15} mt={20} className={classes.demoButton} data-aos="fade-up" >
-                <a href="https://github.com/Yogesh15081996/realAlok" style={{ textDecoration: "none", color: "#fff" }}>Know More </a>
+                <a href="#" style={{ textDecoration: "none", color: "#fff" }}>Know More </a>
               </Center>
             </Center>
           </Container>
